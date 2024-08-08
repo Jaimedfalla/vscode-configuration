@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "bearded-icons",
+    "sonarlint.connectedMode.connections.sonarqube": [],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.sideBar.location": "right",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "codesnap.shutterAction": "copy",
+    "codesnap.transparentBackground": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "git.openRepositoryInParentFolders": "never"
+}
