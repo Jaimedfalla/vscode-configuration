@@ -2,7 +2,6 @@ aaron-bond.better-comments
 adpyke.codesnap
 alefragnani.bookmarks
 angular.ng-template
-beardedbear.beardedicons
 beardedbear.beardedtheme
 bradlc.vscode-tailwindcss
 eamodio.gitlens
@@ -17,6 +16,7 @@ ms-dotnettools.csharp
 ms-dotnettools.vscode-dotnet-runtime
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-wsl
+pkief.material-icon-theme
 quicktype.quicktype
 rangav.vscode-thunder-client
 redhat.java

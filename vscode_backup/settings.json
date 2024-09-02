@@ -1,5 +1,4 @@
 {
-    "workbench.iconTheme": "bearded-icons",
     "sonarlint.connectedMode.connections.sonarqube": [],
     "diffEditor.ignoreTrimWhitespace": false,
     "workbench.sideBar.location": "right",
@@ -9,5 +8,6 @@
     "github.copilot.editor.enableAutoCompletions": true,
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "editor.suggestOnTriggerCharacters": false,
-    "git.openRepositoryInParentFolders": "never"
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.iconTheme": "material-icon-theme"
 }
