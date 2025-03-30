@@ -9,5 +9,17 @@
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "editor.suggestOnTriggerCharacters": false,
     "git.openRepositoryInParentFolders": "never",
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "sonarlint.rules": {
+        "csharpsquid:S2325": {
+            "level": "off"
+        }
+    }
 }
